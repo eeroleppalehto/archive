@@ -37,3 +37,5 @@ plt.show()
 
 plt.scatter(x, y)
 plt.show()
+
+# Muista komento: pip install matplotlib ladataksesi tarvittava kirjasto
