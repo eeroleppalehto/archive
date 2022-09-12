@@ -32,10 +32,8 @@ for x in range(-pituus,pituus):
 x = np.array(koordx)
 y = np.array(koordy)
 
-plt.scatter(x, y)
+plt.scatter(x, y, s = 0.5)
 plt.show()
 
-plt.scatter(x, y)
-plt.show()
 
 # Muista komento: pip install matplotlib ladataksesi tarvittava kirjasto
